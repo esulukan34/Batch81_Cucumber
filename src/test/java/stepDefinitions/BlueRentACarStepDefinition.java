@@ -12,6 +12,7 @@ import utilities.Driver;
 
 public class BlueRentACarStepDefinition {
     BrcPages brc = new BrcPages();
+
     @Given("kullanici bluerentacar ana sayfasinda")
     public void kullaniciBluerentacarAnaSayfasinda() {
         Driver.getDriver().get(ConfigReader.getProperty("brcUrl"));
@@ -19,6 +20,7 @@ public class BlueRentACarStepDefinition {
 
     @Then("Login yazisina tiklar")
     public void loginYazisinaTiklar() {
+
         brc.login.click();
     }
 
@@ -48,6 +50,7 @@ public class BlueRentACarStepDefinition {
 
     @And("kulllanici sayfayi kapatir")
     public void kulllaniciSayfayiKapatir() {
-        Driver.closeDriver();
+        //Driver.closeDriver();
     }
+
 }

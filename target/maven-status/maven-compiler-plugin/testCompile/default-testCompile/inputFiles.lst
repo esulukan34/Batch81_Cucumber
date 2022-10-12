@@ -3,6 +3,7 @@
 /Users/emresulukan/IdeaProjects/com.Batch81Cucumber/src/test/java/utilities/Driver.java
 /Users/emresulukan/IdeaProjects/com.Batch81Cucumber/src/test/java/pages/WebUniversityPage.java
 /Users/emresulukan/IdeaProjects/com.Batch81Cucumber/src/test/java/pages/FacebookPage.java
+/Users/emresulukan/IdeaProjects/com.Batch81Cucumber/src/test/java/stepDefinitions/BrcHomework.java
 /Users/emresulukan/IdeaProjects/com.Batch81Cucumber/src/test/java/stepDefinitions/HepsiBuradaStepDefinition.java
 /Users/emresulukan/IdeaProjects/com.Batch81Cucumber/src/test/java/pages/BrcPages.java
 /Users/emresulukan/IdeaProjects/com.Batch81Cucumber/src/test/java/stepDefinitions/AmazonStepDefinition.java
@@ -11,4 +12,6 @@
 /Users/emresulukan/IdeaProjects/com.Batch81Cucumber/src/test/java/pages/TrendyolPage.java
 /Users/emresulukan/IdeaProjects/com.Batch81Cucumber/src/test/java/pages/AmazonPage.java
 /Users/emresulukan/IdeaProjects/com.Batch81Cucumber/src/test/java/pages/HepsiBuradaPage.java
+/Users/emresulukan/IdeaProjects/com.Batch81Cucumber/src/test/java/stepDefinitions/DatabaseOutline.java
 /Users/emresulukan/IdeaProjects/com.Batch81Cucumber/src/test/java/runner/Runner.java
+/Users/emresulukan/IdeaProjects/com.Batch81Cucumber/src/test/java/pages/DatabasePage.java
